@@ -1,16 +1,30 @@
-## Hi there 👋
+# Jeff
 
-<!--
-**JeffM577/JeffM577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer focused on React applications for operations, field workflows, and internal business tools.
 
-Here are some ideas to get you started:
+I build practical interfaces that help teams move faster: dashboards, document workflows, scheduling views, inventory flows, and data-heavy screens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- React, React Router, React Query
+- Ant Design, Tailwind CSS, AG Grid
+- Workflow automation and internal tools
+- Clean UI migration from legacy components
+- Light/dark theme consistency
+
+## Current Work
+
+- Modernizing operational screens with Ant Design
+- Improving reusable UI patterns
+- Building small tools for construction and roofing workflows
+- Keeping business logic stable while improving maintainability
+
+## Featured Projects
+
+- Field View Toolkit: reusable frontend patterns for field operations
+- Roofing Ops Dashboard: project tracking, material flow, and office workflows
+- Document Automation Lab: PDF and form-generation experiments
+
+## Contact
+
+Open to frontend roles, internal tools work, and React-heavy operational products.
